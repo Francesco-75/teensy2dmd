@@ -264,7 +264,7 @@ void loop(void)
   }
 
   param = strchr(cmd, 32);
-  if (param != NULL)
+  if (param != nullptr)
   {
     *param = 0;
     param = param + 1;
