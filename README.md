@@ -1,3 +1,9 @@
+# REQUIREMENTS
+SmartMatrix-3.2.0 on your C:\Users\yourname\Documents\Arduino\libraries
+SdFat-1.5.0 (https://github.com/adafruit/SdFat/releases) on your C:\Program Files (x86)\Arduino\hardware\teensy\avr\libraries\SdFat
+Arduino IDE 1.8.19
+Teensyduino 1.59
+
 # teensy2dmd
 Teensy LED Smartmatrix display for an animated GIF Arcade Marquee or text display
 
